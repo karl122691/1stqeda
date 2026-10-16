@@ -1,0 +1,23 @@
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+
+# Local credentials and editor state
+.env
+.env.*
+!.env.example
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Supplied reference materials, not project deliverables
+/bluman-step-by-step-statistics-8th-edition.pdf
+/Cor_Jesu_Applied_Exam_Ch1-3.pdf
+/Cor_Jesu_Survey_Form.pdf
+
+# Temporary PDF generation files
+.survey-report-*.pdf

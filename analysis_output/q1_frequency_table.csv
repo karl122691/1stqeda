@@ -1,0 +1,5 @@
+category,frequency,relative_frequency,percent,cumulative_frequency,cumulative_relative_frequency
+Freshman,5,0.15625,15.625,5,0.15625
+Sophomore,16,0.5,50.0,21,0.65625
+Junior,4,0.125,12.5,25,0.78125
+Senior,7,0.21875,21.875,32,1.0

@@ -1,0 +1,5 @@
+variable,definition_or_question,variable_type,measurement_level,unit,allowed_values_or_rule
+respondent_id,Anonymous form number; no name or student number,Identifier,Nominal,None,Unique positive whole number; one row per administered form
+year_level,What is your year level at Cor Jesu College?,Categorical ordinal,Ordinal,Year-level category,Freshman; Sophomore; Junior; Senior (undergraduate study population)
+study_hours,"On a typical school day, how many hours do you spend studying outside your classes?",Quantitative discrete; the final option is top-coded,Ratio for hours; 8+ is a lower bound,Hours per typical school day,0; 1; 2; 3; 4; 5; 6; 7; 8+ (enter 8+ for the 8 or more response)
+commute_minutes,"What is your one-way commute time from home to campus, in minutes?","Quantitative continuous, recorded to whole minutes",Ratio,Minutes one way,"Nonnegative whole number; record 0 for walking or living on campus, following the survey rule"

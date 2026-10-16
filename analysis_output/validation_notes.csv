@@ -1,0 +1,3 @@
+issue_or_note
+All study-hour responses are finite whole-hour values; no open-ended answer occurs.
+"Q3 uses equal-width classes of 10 minute(s), starting at recorded zero; target class count = ceil(1 + log2(n)) = 6. Real boundaries are whole-minute limits ±0.5; the −0.5 boundary includes zero, not negative travel."
